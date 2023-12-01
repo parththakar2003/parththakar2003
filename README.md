@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...MSCIT
 - 🌱 I’m currently learning ...ALL LANGUAGE
 - 💞️ I’m looking to collaborate on ...COMPANY
-- 📫 How to reach me ...BY MY INSTA  DEVELOPER PARTH
+- 📫 How to reach me ...BY MY INSTA DEVELOPER PARTH
 
 <!---
 parththakar2003/parththakar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
