@@ -1,96 +1,114 @@
- 💻 Parth Thakar
+<h1 align="center">⚔️ PARTH THAKAR ⚔️</h1>
 
-🚀|| INFORMATION TECHNOLOGY || DIGITAL FORENSIC || CYBER SECURITY ||
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=650&color=FF0033&center=true&vCenter=true&width=1500&lines=RED+TEAM+MINDSET;CTF+PLAYER+%7C+OFFENSIVE+SECURITY;ATTACK+SIMULATION+%7C+ADVERSARY+LOGIC;BREAK+TO+DEFEND;THINK+LIKE+AN+ATTACKER" />
+</p>
 
- 🔹 About Me
-
-I'm a cybersecurity and digital forensics professional with expertise in:
-
-- IT infrastructure security
-- Cloud security (Google Cloud, IAM, Compliance)
-- Digital investigations & forensic analysis
-- Threat analysis & risk assessment
-- Security audits & compliance frameworks
-
-Passionate about safeguarding systems, optimizing security protocols, and ensuring compliance.
-
- 📌 Current Status
-
-🎓 **Student** – Pursuing Master of Digital Forensic and Information Security (DFIS) at Narnarayan Shastri Institute of Technology (Affiliated with NFSU).🔹 **IAM Project at TCS** – Assessing and implementing Identity & Access Management (IAM) solutions for TechCorp Enterprises to enhance security and operational efficiency.
-
- ⚙️ Skills & Tools
-
-- 🔐 **Cybersecurity & IAM**: Identity & Access Management (IAM), Threat Intelligence, Security Audits
-- 🖥 **Digital Forensics**: Evidence Acquisition, Chain of Custody, Data Carving
-- ☁ **Cloud Security**: Google Cloud Security, Compliance, Risk Management
-- 🔍 **Forensic Analysis**: Incident Response, Log Analysis, Malware Analysis
-- 📜 **Regulatory Compliance**: IT Infrastructure Audit, NIST, ISO 27001, GDPR
-- 💻 **Programming & Development**: Python, Java, SQL, Full-Stack Development, AI/ML
-- 🛠 **Forensic Tools**: FTK Imager, OS Forensic, OSINT, Autopsy
-
- 🏆 Certifications & Education
-
-🎓 **Master of Digital Forensic and Information Security (DFIS)** (Pursuing - 2024-25)  
-Narnarayan Shastri Institute of Technology – Jetalpur – Ahmedabad (Affiliated with NFSU)
-
-🎓 **Bachelor of Science – IT (B.Sc. IT)** (7.20 CGPA - 2024)  
-Ganpat University – Ahmedabad
-
-📜 **Certifications:**  
-- Google Cloud Fundamentals Core Infrastructure (Coursera/Google)  
-- Innovation Startup and Entrepreneurship Induction
-
- 🔬 Projects
-
-🛠 **Major Project:**  
-- Advance Billing System with QR (Full Stack with Python)
-
-🔍 **Minor Project:**  
-- Cryptography & Steganography Tool (Python)
-
- 💼 Internship
-
-- **Full-Stack Development and Python Programmer** (Jan 2024 - Feb 2024)  
-Brainy Beam Technologies Pvt Ltd (On-Site)
-
- 📢 Webinars & Conferences Attended
-- Hibernate Framework
-- React Native Workshop
-- Odoo-ERP Functionality Workshop
-- Flutter - Build Apps for Any Screen
-- Power BI – Visualization
-- Cybersecurity: Privacy & Data Protection
-- Implementing Cybersecurity Best Practices
-- Fraud Investigation Augmented by AI & Technology
-- Basic Web Development and Communication Skills
-- Role of Public International Law
-
- 🌍 Languages
-- English
-- Hindi
-- Gujarati
-
- 🎯 Soft Skills
-- Communication
-- Teamwork
-- Time Management
-
- 🏏 Hobbies
-- Skating
-- Cricket
-- Listening to Music
-
- 📢 Let's Connect!
-
-- 🔗 [LinkedIn](#)
-- 📧 Email: [Parththakar39@gmail.com](mailto:Parththakar39@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/RED%20TEAM-OFFENSIVE%20SECURITY-FF0033?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CTF-HACKER%20MINDSET-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETHICAL-HACKING-FF6666?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20OPERATOR-DC143C?style=for-the-badge" />
+</p>
 
 ---
 
-⭐ **Feel free to contribute, collaborate, or reach out for discussions on cybersecurity, IAM, and digital forensics!**
+<h2 align="center">🩸 OPERATOR PROFILE</h2>
+
+```yaml
+
+Alias        : Parth Thakar
+Role         : Red Team | Offensive Security | CTF Player
+Base         : Ahmedabad, India
+Specialty    : Web Attacks • Logic Flaws • Vulnerability Discovery
+Ethics       : Authorized & Responsible Security Testing Only
+
+```
+
+<h2 align="center">🧠 ATTACKER MINDSET</h2>
+
+```
++ Recon before exploit
++ Logic before payload
++ Misconfigurations over malware
++ Silent > Noisy
++ Precision > Chaos
+
+```
+
+<h2 align="center">⚔️ ATTACK SURFACE</h2> <table align="center"> <tr> <td width="50%"> <h3 align="center">🎯 OFFENSIVE DOMAINS</h3>
+ 
 
 
-<!---
-parththakar2003/parththakar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Web Application Attacks
+
+API Abuse & Logic Flaws
+
+Authentication Bypass
+
+Authorization Issues (IDOR)
+
+Input Validation Failures
+
+Misconfiguration Exploitation
+
+</td> <td width="50%"> <h3 align="center">🧨 CTF SKILLS</h3>
+
+Web Exploitation
+
+Cryptography Challenges
+
+Steganography
+
+OSINT & Recon
+
+Reverse Engineering (Basic)
+
+Automation & Scripting
+
+</td> </tr> </table>
+<h2 align="center">🛠️ WEAPONS OF CHOICE</h2> <p align="center"> <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Nessus-8B0000?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQLMap-FF0033?style=for-the-badge" /> <img src="https://img.shields.io/badge/Nmap-DC143C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge" /> </p>
+<h2 align="center">🚩 CTF BATTLES</h2>
+
+```
++ IIT Roorkee CTF            → Rank 16 / 100 Teams
++ Bugcrowd CTF              → Rank 144
++ AWS × SANS CTF            → ~200 Rank
++ TryHackMe Hackfinity      → Active Challenger
+
+```
+<h2 align="center">📊 OPERATIONAL STATS</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=parththakar2003&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    width="48%" 
+  />
+<img 
+ src="https://github-readme-activity-graph.vercel.app/graph?username=parththakar2003&theme=tokyo-night&hide_border=true"
+  width="48%" 
+/>
+</p>
+
+
+<h2 align="center">🏆 CAMPAIGN RECORD</h2><p align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IIT%20Roorkee%20CTF-Rank%2016%2F100-gold?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Bugcrowd%20CTF-Rank%20144-red?style=for-the-badge&logo=bugcrowd" />
+  <img src="https://img.shields.io/badge/AWS%20×%20SANS%20CTF-Top%20200-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/TryHackMe-Hackfinity-green?style=for-the-badge&logo=tryhackme" />
+</p>
+
+
+<h2 align="center">🧩 PAYLOADS (PROJECTS)</h2>
+Payload	Objective	Stack
+
+```
+🔐 Crypto–Stego Tool	Hide & extract data	Python
+🕵️ Web Exploit Labs	Practice attack logic	Web
+⚙️ Automation Scripts	Beat CTF timers	Python
+
+```
+<h2 align="center">📡 CONTACT CHANNEL</h2> <p align="center"> <a href="mailto:parththakar39@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-CONTACT-FF0033?style=for-the-badge" /> </a> </p>
+<h2 align="center">☠️ RED TEAM CODE</h2> <h3 align="center"> “Know the system. Break the system. Secure the system.” </h3> 
