@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">🩸 OPERATOR PROFILE</h2> a
+<h2 align="center">🩸 OPERATOR PROFILE</h2> 
 
 ```yaml
 
