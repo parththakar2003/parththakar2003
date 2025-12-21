@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ PARTH THAKAR ⚔️</h1>
+<h1 align="center">⚔️ Parth Mehulkumar Thakar ⚔️</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=650&color=FF0033&center=true&vCenter=true&width=1500&lines=RED+TEAM+MINDSET;CTF+PLAYER+%7C+OFFENSIVE+SECURITY;ATTACK+SIMULATION+%7C+ADVERSARY+LOGIC;BREAK+TO+DEFEND;THINK+LIKE+AN+ATTACKER" />
